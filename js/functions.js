@@ -1,5 +1,5 @@
 function renderMonths( data ) {
-let = HTML '';
+let HTML =  '';
 
 for ( let i=0; i<12; i++ ) {
     HTML += '<div class="table-row">\
